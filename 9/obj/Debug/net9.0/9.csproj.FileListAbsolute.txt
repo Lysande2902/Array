@@ -1,0 +1,14 @@
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\bin\Debug\net9.0\9.exe
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\bin\Debug\net9.0\9.deps.json
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\bin\Debug\net9.0\9.runtimeconfig.json
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\bin\Debug\net9.0\9.dll
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\bin\Debug\net9.0\9.pdb
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\obj\Debug\net9.0\9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\obj\Debug\net9.0\9.AssemblyInfoInputs.cache
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\obj\Debug\net9.0\9.AssemblyInfo.cs
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\obj\Debug\net9.0\9.csproj.CoreCompileInputs.cache
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\obj\Debug\net9.0\9.dll
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\obj\Debug\net9.0\refint\9.dll
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\obj\Debug\net9.0\9.pdb
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\obj\Debug\net9.0\9.genruntimeconfig.cache
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arreglos\9\obj\Debug\net9.0\ref\9.dll
